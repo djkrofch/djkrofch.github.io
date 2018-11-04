@@ -1,4 +1,5 @@
-name: Dan Krofcheck, Remote Sensing and Research Data Scientist
+name: Dan Krofcheck
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+remote_theme: siawyoung/immaculate
