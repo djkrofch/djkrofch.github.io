@@ -1,2 +1,5 @@
 # no version tracking for jekyll automatically generated files
 _site/
+*.swo
+*.swp
+*~
