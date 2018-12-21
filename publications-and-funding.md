@@ -8,7 +8,7 @@ permalink: /publications-and-funding/
 
 **Krofcheck, D.J.**, Hurteau, M.D., Scheller, R.M., Loudermilk, E.L. **2018**. Prioritizing forest fuels treatments based on the probability of high-severity fire restores adaptive capacity in Sierran forests. [Global Change Biology](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13913),4:729–737. 
 
-{% marginnote margin1 %}
+{% marginnote %}
 Student led publication.
 {% endmarginnote %}
 
@@ -18,7 +18,7 @@ Hudson P.J., Limousin J.M., Krofcheck D.J., Boutz A.L., Pangle R.E., Gehres N., 
 
 **Krofcheck D.J.**, Hurteau M.D., Scheller R.M., Loudermilk E.L. **2017**. Restoring surface fire stabilizes forest carbon under extreme fire weather in the Sierra Nevada. [Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1663) 8(1):e0163.10.1002/ecs2.163.
 
-{% marginnote margin1 %}
+{% marginnote %}
 Regional, cross disclipine  
 synthesis.
 {% endmarginnote %}
@@ -29,7 +29,7 @@ Biederman J.A., Scott R.L., Bell T.W., Bowling, D.R., Dore, S., Garatuza‐Payan
 
 **Krofcheck D.J**., Eitel J.U.H., Lippitt C.D., Vierling L.A., Schulthess U., Litvak M.E. **2015**. Remote sensing based simple models of GPP in both disturbed and undisturbed pinon-juniper woodlands in the southwestern US. [Remote Sensing](https://www.mdpi.com/2072-4292/8/1/20) 8(1):20.
 
-{% marginnote margin1 %}
+{% marginnote %}
 Publication resulting from   
 a collaborative workshop
 {% endmarginnote %}
