@@ -1,5 +1,12 @@
-name: Dan Krofcheck
+title: Krofcheck Data Science
+description: A look at my endeavors as both a data scientist and a researcher
+baseurl: "/KrofcheckRS"
+url: "https://github.io/djkrofch/"
+paginate: 2 # The number of posts to show per page on your homepage
+name: "Dan J Krofcheck"
 markdown: kramdown
-
-permalink: /blog/:year/:month/:day/:title
-remote_theme: siawyoung/immaculate
+permalink: none
+kramdown:
+  parse_block_html: true
+gems:
+  - jekyll-paginate

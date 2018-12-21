@@ -4,17 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
+I am a research assistant professor at the University of New Mexico, Department of Biology, working out of the
+[Earth Systems Ecology Lab](www.HurteauLab.org). 
+I have spent my academic and research career developing an understanding and appreciation of the
+complexity of natural systems, and the the data we collect to investigate them. I love asking quesitons
+and developing ways to answer them, making use of everything from field observations and models to imagery
+from UAVs and satellites.
 
-Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
-cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
-orci ac pharetra commodo, diam lectus hendrerit eros, ac elementum magna augue
-sed tellus. Maecenas molestie, nisi ut sodales scelerisque, purus neque
-imperdiet dui, mollis elementum sem augue vel ipsum. Nulla lacinia arcu at quam
-lobortis, vitae interdum tellus fermentum. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Fusce sodales semper erat, eu fringilla ligula vulputate id. Maecenas quis libero pellentesque lacus
-egestas vehicula sit amet et neque. Nulla nec facilisis sem. Pellentesque rutrum elementum molestie.
+Over the past five years, I have focused my research on how change in the structure of 
+semi-arid ecosystems affects how the landscape interacts with light, water, and energy – 
+specifically, I studied how those relationships manifest when viewed remotely using satellite data. 
+During my PhD, I addressed these questions using combinations of in-situ measurements, 
+remote sensing data, and empirical modeling. 
+
+Currently, I am interested in how changes in drought, 
+wildfire, and management regimes alter forest structure and composition across a 
+larger diversity of vegetation and climatic gradients. I am also actively involved
+in developing new approaches to integrating the broad diversity of rapidly growing data sets
+that researchers collect using geospatial and remote sensing techniques, specifically leveraging
+data from UAVs.
+
+
+### [Google Scholar](https://scholar.google.com/citations?user=wYgPe8MAAAAJ&hl=en) 
