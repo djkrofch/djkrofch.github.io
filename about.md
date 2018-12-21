@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I am a research assistant professor at the University of New Mexico, Department of Biology, working out of the
-[Earth Systems Ecology Lab](www.HurteauLab.org). 
+[Earth Systems Ecology Lab](http://www.HurteauLab.org). 
 I have spent my academic and research career developing an understanding and appreciation of the
 complexity of natural systems, and the the data we collect to investigate them. I love asking quesitons
 and developing ways to answer them, making use of everything from field observations and models to imagery
