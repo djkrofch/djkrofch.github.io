@@ -3,3 +3,4 @@ _site/
 *.swo
 *.swp
 *~
+.sass-cache/
